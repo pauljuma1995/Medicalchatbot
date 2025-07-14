@@ -2,7 +2,7 @@
 STEPS:
 Clone the repository
 Project repo: https://github.com/
-STEP 01- Create a conda environment after opening the repository
+STEP 01- Create a conda environment after opening the repository.
 conda create -n medicalchatbot python=3.8 -y | python -m venv env
 conda activate medicalchatbot | .\env\Scripts\activate.bat
 STEP 02- Install the requirements
